@@ -1,0 +1,1 @@
+worker: java Main.java
